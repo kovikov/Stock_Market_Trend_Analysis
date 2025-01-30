@@ -1,0 +1,10 @@
+Models,Train Accuracy,Test Accuracy
+XGBClassifier,0.940686,0.653795
+LogisticRegression,0.623126,0.61518
+RandomForestClassifier,0.999334,0.609854
+DecisionTreeClassifier,1.0,0.603196
+SVMClassifier,0.563479,0.531292
+KNNClassifier,0.686105,0.515313
+ARIMA,0.47884,0.467377
+LSTM Model,0.5372,0.5087
+CNN-LSTM Model,0.5465,0.4834
