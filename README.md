@@ -1,4 +1,4 @@
-# Stock Market Trend Analysis: NVDA & QUBT for PRIME Inc.
+# Investment Analysis Report for Prime INC: NVDA & QUBT
 
 ## Overview
 This project provides a comprehensive data-driven analysis of NVIDIA Corporation (NVDA) and Quantum Computing Inc. (QUBT) to support PRIME Inc.'s investment strategy. It includes stock market trend analysis, predictive modeling, and fundamental financial assessments.
@@ -57,7 +57,9 @@ This project provides a comprehensive data-driven analysis of NVIDIA Corporation
 
 ### Author
 **Kehinde Ogundana**
+
 **Felix Omomah**
+
 **Rene Fondufe**
 
 
